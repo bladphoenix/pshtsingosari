@@ -1,0 +1,19 @@
+/* img navbar */
+.navwidth{
+    width: 50px;
+    height: auto;
+}
+
+/* slider */
+.height_slider{
+    height:750px !important;
+}
+
+/* card title */
+.headofcard{
+    padding:30px 10px !important;
+}
+
+footer h5{
+    color: aliceblue;
+}
